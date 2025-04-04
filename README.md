@@ -24,6 +24,8 @@ I'm now looking for full-time roles where I can apply my skills to real impact, 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+
+
 ---
 
 
