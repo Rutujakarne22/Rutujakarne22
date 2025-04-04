@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-I’m a Aspiring data analyst with hands-on experience in Excel, SQL, Power BI, and Python, focused on turning business questions into clear, data-driven insights.
+I’m an Aspiring data analyst with hands-on experience in Excel, SQL, Power BI, and Python, focused on turning business questions into clear, data-driven insights.
 I’ve worked on real-world projects involving sales trends, customer churn —delivering dashboards and reports that drive smarter decisions.
 I recently completed a comprehensive data analytics certification course,which sharpened my skills in storytelling with data and real-time problem solving.
 I'm now looking for full-time roles where I can apply my skills to real impact, keep learning, and grow with a data-driven team.
