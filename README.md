@@ -29,40 +29,9 @@ I'm now looking for full-time roles where I can apply my skills to real impact, 
 ---
 
 
-
-### Featured Projects
-
-#### 🏪 Retail Supply Chain & Sales Analysis
-- Tools: Python, SQL Server, Power BI  
-- Description:Analyze Retail sales trends, customer behavior, and shipping performance to optimize pricing strategies, logistics operations, and customer retention.
-- 🔗 [View Project](https://github.com/Rutujakarne22/Retail-Supply-Chain-Sales-Analysis)
-
----
-
-#### 📱 Telecom Churn Analysis
-- Tools: Python, Jupyter Notebook  
-- Description: Analyze and identified churn patterns and customer retention using python exploratary data analysis.
-- 🔗 [View Project](https://github.com/Rutujakarne22/Telecom-Churn-Analysis-Project)
-
----
-
-#### 🛒 Walmart Sales Analysis
-- Tools: Python, MySQL  
-- Description: Uncovered sales trends across seasons and departments. Presented data-driven insights for marketing and operations optimization.
-- 🔗 [View Project](https://github.com/Rutujakarne22/Walmart_Sales_Analysis)
-
----
-
-#### 🏥 Hospital Emergency Room Dashboard
-- Tools: Excel, Power Query, Power Pivot  
-- Description: Built a dynamic Excel dashboard analyzing patient wait times, department flow, and emergency KPIs. Helped identify bottlenecks and improve efficiency.
-- 🔗 [View Project](https://github.com/Rutujakarne22/Hospital_Emergency_Room_Analysis)
-
-
-
 <p align="center">
   <a href="https://github.com/Rutujakarne22?tab=repositories">
-    <img src="https://img.shields.io/badge/-Check_out_more_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
+    <img src="https://img.shields.io/badge/-Check_out_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
   </a>
 </p>
 
