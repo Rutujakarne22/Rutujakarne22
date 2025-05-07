@@ -9,7 +9,7 @@ I’ve worked on real-world projects involving sales trends, customer churn —d
 I recently completed a comprehensive data analytics certification course,which sharpened my skills in storytelling with data and real-time problem solving.
 I'm now looking for full-time roles where I can apply my skills to real impact, keep learning, and grow with a data-driven team.
   
-- Portfolio Projects: Check below 👇
+
 
 
 ---
@@ -27,6 +27,9 @@ I'm now looking for full-time roles where I can apply my skills to real impact, 
 
 
 ---
+### Projects 
+
+
 
 
 <p align="center">
